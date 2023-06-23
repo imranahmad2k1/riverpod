@@ -1,6 +1,6 @@
-# example_app_riverpod
+# Example app of Riverpod
 
-A new Flutter project.
+A flutter project with Riverpod as state management solution
 
 ## Getting Started
 
